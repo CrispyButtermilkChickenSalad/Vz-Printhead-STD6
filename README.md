@@ -10,7 +10,7 @@ View the CAD linked below:
 Refer to the [wiki](https://github.com/CrispyButtermilkChickenSalad/Vz-Printhead-STD6/wiki) for machining instructions, cutting guide and assembly.
 
 ## Note
-All links provided in the wiki are affiliate links, meaning I will get a small kickback from your purchase if you purchase from the links at no additional cost to you.
+All links that take you outside of GitHub are affiliate links, meaning I will get a small kickback if you purchase from the links at no additional cost to you.
 
 Optionally you can donate if you like what I've created:
 
