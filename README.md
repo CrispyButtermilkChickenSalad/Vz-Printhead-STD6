@@ -1,5 +1,5 @@
 # Vz-Printhead-STD6
-A modified Vz-Printhead that is compatible with the [Trianglelab STD6 hotend](https://s.click.aliexpress.com/e/_DcGgKvV). It is meant to replace the top plate of the [VzBot Printhead](https://github.com/VzBoT3D/Vz-Printhead-CNC).
+A modified Vz-Printhead that is compatible with the [Trianglelab STD6 hotend](https://s.click.aliexpress.com/e/_DcGgKvV) (meant to be run with [a water-cooled extruder](https://github.com/CrispyButtermilkChickenSalad/HGX-2.0-WC)). It is meant to replace the top plate and hotend adapter of the original [VzBot Printhead](https://github.com/VzBoT3D/Vz-Printhead-CNC), decreasing the weight as much as possible while maximising hotend length.
 
 ![](https://github.com/CrispyButtermilkChickenSalad/Vz-Printhead-STD6/blob/20cf42334d3e810ae258b20710db82338d55b163/Gallery/Metal_parts_Print_head_graphic_2024-Jun-05_05-04-56PM-000_CustomizedView7414172976.png)
 
